@@ -3,4 +3,3 @@ scikit-learn
 numpy
 pandas
 
-link : https://diabetesprediction-uis4lkpednjjf3swfykssy.streamlit.app/
